@@ -1,5 +1,3 @@
-# adversarial_testing_rl
-
 # Adversarial Testing for HighwayEnv
 
   
